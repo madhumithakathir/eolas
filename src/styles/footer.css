@@ -1,0 +1,12 @@
+.vl {
+    border-left: 3px solid lightgray;
+    height: 5x;
+}
+.foot{
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+            }
+    span{
+        padding:0 10px;
+    }
